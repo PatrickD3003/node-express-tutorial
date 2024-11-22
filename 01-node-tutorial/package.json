@@ -1,0 +1,18 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "main": "1-intro.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "_commen1": "run 'npm start' for start, run 'npm run dev' for dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "_comment": "devDependencies->category of dependencies that are only needed during the development phase of your project. ",
+  "description": ""
+}
